@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "35a21bee6412fe81",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3079d76bad1bc83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14d1750fe336175c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопрос 12. Свойства комплексной экспоненты..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "342d8a502343974a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3bc55c410a19e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64650a43f6425ec0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea53935198f6aa2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b74986e6f990b42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e4259f0692d1473",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e722df70649eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6179b9d5633debe3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вопрос 12. Свойства комплексной экспоненты..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b85554a0b91862ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вопрос 12. Свойства комплексной экспоненты..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbbef73e400f810f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c09c494ea44148e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопрос 12. Свойства комплексной экспоненты..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14d1750fe336175c",
+  "lastOpenFiles": [
+    "Вопрос 10. Структура общего решения линейного однородного ДУ n-го порядка..md",
+    "Вопрос 9. Определитель Вронского и его свойства..md",
+    "Вопрос 8. Принцип суперпозиции для линейных ДУ..md",
+    "Вопрос 7. ДУ высших порядков..md",
+    "Вопрос 6. Метод последовательных приближений..md",
+    "Вопрос 5. Теорема существования и единственности решения за-дачи Коши для ДУ 1-го порядка..md",
+    "Вопрос 3. Методы интегрирования ДУ 1-го порядка.md",
+    "Вопрос 2. Геометрический смысл ДУ 1-го порядка..md",
+    "Вопрос 1. Дифференциальные уравнения (ДУ) 1-го порядка.md",
+    "Вопрос 25.  Символический метод решения линейного неоднородного ДУ с постоянными коэффициентами..md",
+    "Вопрос 14. Решение линейного неоднородного ДУ с постоянными коэффициентами в случае, когда правая часть есть квазимногочлен..md",
+    "Welcome.md",
+    "Untitled 24.md",
+    "Вопрос 24. Классификация стационарных точек однородной системы двух линейных ДУ с постоянными коэффициентами..md",
+    "Вопрос 23. Матричная экспонента..md",
+    "Вопрос 22. Методы решения линейных систем ДУ с постоянными коэффициентами..md",
+    "Вопрос 21. Структура общего решения линейной системы ДУ..md",
+    "Вопрос 20. Линейные системы ДУ..md",
+    "Вопрос 19. Теорема о свертке и формула Дюамеля..md",
+    "Вопрос 18. Операторный метод..md",
+    "Вопрос 17. Свойства преобразования Лапласа..md",
+    "Вопрос 16. Оригиналы и изображения..md",
+    "Вопрос 15. Свойства оригиналов..md",
+    "Вопрос 13. Построение общего решения линейного однородного ДУ с постоянными коэффициентами..md",
+    "Вопрос 12. Свойства комплексной экспоненты..md",
+    "Вопрос 11. Структура общего решения линейного неоднородного ДУ n-го порядка..md",
+    "Untitled"
+  ]
+}
